@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container">
+
+    <div class="container-fluid text-center mt-3 mb-3">
+        <p class="lead">Seu código:</p>
+        <h1>{{code}}</h1>
+        <p class="lead">Detectamos os seguintes componentes:</p>
+    </div>
+
+    <div class="row justify-content-md-center">
+        {% for i in range(imageList|length) %}
+            <div class="col-md-4 text-center">
+                <div class="card mb-4 border-light shadow-sm">
+                    <h5 class="card-title mt-1" style="color: #7d0fbd;"> {{i}} </h5>
+                    <img src="{{url_for('viewPreview', code=code, filename=imageList[i])}}" class="card-img-bottom">
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+
+    <div class="row mx-auto text-center mb-3">
+        <div class="col">
+        </div>
+        <div class="col-7">
+            <a href="{{url_for('getPenpot', code=code)}}" class="btn btn-lg btn-block btn-primary" role="button" style="background-color: #7d0fbd;">Baixar .zip</a>
+        </div>
+        <div class="col">
+        </div>
+    </div>
+</div>
+
+{% endblock %}

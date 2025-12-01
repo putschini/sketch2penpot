@@ -1,0 +1,6 @@
+Flask
+numpy
+scikit-image
+pillow
+roboflow
+svgutils

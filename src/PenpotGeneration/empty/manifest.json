@@ -1,0 +1,23 @@
+{
+    "teamId": "Sketch2Penpot",
+    "fileId": "c29b5282-da70-8012-8003-70a99a4124a2",
+    "files": {
+        "c29b5282-da70-8012-8003-70a99a4124a2": {
+            "features": [],
+            "libraries": [],
+            "hasDeletedComponents": false,
+            "hasComponents": true,
+            "name": "screen",
+            "pagesIndex": {
+            },
+            "exportType": "all",
+            "pages": [
+            ],
+            "hasMedia": false,
+            "shared": false,
+            "version": 2,
+            "hasTypographies": false,
+            "hasColors": false
+        }
+    }
+}

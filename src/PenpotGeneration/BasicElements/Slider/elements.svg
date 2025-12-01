@@ -1,0 +1,61 @@
+<svg viewBox="0 0 200 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="width:100%;height:100%;background:#ffffff" fill="none">
+    <penpot:page id="73908b91-865e-8140-8003-7ff4e1cc8571"></penpot:page>
+    <g id="shape-Slider_group_id" rx="0" ry="0">
+        <penpot:shape penpot:name="slider_component" penpot:type="group" penpot:center-x="100" penpot:center-y="10"
+            penpot:component-file="73908b91-865e-8140-8003-7ff4e1cc8570"
+            penpot:component-id="77fefd77-2f9c-8022-8003-7ff76674b2db" penpot:component-root="true"
+            penpot:shape-ref="77fefd77-2f9c-8022-8003-7ff76674b2db"></penpot:shape>
+        <defs></defs>
+        <g id="shape-slider_full_track_id">
+            <penpot:shape penpot:name="slider_full_track" penpot:type="rect"
+                penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="100"
+                penpot:center-y="10" penpot:shape-ref="slider_component_full_track_id">
+                <penpot:fills>
+                    <penpot:fill penpot:fill-color="#e7e0ec" penpot:fill-opacity="1"></penpot:fill>
+                </penpot:fills>
+            </penpot:shape>
+            <defs></defs>
+            <g class="fills" id="fills-slider_full_track_id">
+                <rect rx="2" ry="2" style="fill:#e7e0ec;fill-opacity:1" x="full_track_position_x" y="full_track_position_y"
+                    transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="full_track_width"
+                    height="full_track_height"></rect>
+            </g>
+        </g>
+        <g id="shape-slider_track_id">
+            <penpot:shape penpot:name="slider_track" penpot:type="rect"
+                penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="50"
+                penpot:center-y="10" penpot:shape-ref="slider_component_track_id">
+                <penpot:fills>
+                    <penpot:fill penpot:fill-color="#6750a4" penpot:fill-opacity="1"></penpot:fill>
+                </penpot:fills>
+            </penpot:shape>
+            <defs></defs>
+            <g class="fills" id="fills-slider_track_id">
+                <rect rx="2" ry="2" style="fill:#6750a4;fill-opacity:1" x="track_position_x" y="track_position_y"
+                    transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="track_width"
+                    height="track_height"></rect>
+            </g>
+        </g>
+        <g id="shape-slider_handle_id">
+            <penpot:shape penpot:name="slider_handle" penpot:type="circle"
+                penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="100"
+                penpot:center-y="10" penpot:shape-ref="slider_component_handle_id">
+                <penpot:fills>
+                    <penpot:fill penpot:fill-color="#6750a4" penpot:fill-opacity="1"></penpot:fill>
+                </penpot:fills>
+            </penpot:shape>
+            <defs></defs>
+            <g class="fills" id="fills-slider_handle_id">
+                <ellipse rx="handle_width" ry="handle_height" style="fill:#6750a4;fill-opacity:1" cx="handle_position_x" cy="handle_position_y"
+                    transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

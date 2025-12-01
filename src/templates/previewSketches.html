@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container">
+
+    <div class="container-fluid text-center mt-3 mb-3">
+        <!-- <p class="lead">Selecione sua tela principal abaixo:</p> -->
+        <p class="lead">(Aproveite para verificar se os Sketches estão corretos)</p>
+    </div>
+
+    <div class="row justify-content-md-center">
+        {% for i in range(sketchList|length) %}
+            <div class="col-md-4 text-center mt-3 mb-3">
+                <div class="card mb-4 border-light shadow-sm">
+                    <h5 class="card-title mt-1" style="color: #7d0fbd;"> {{i}} </h5>
+                    <img src="{{url_for('viewImage', code=code, filename=sketchList[i])}}" class="card-img-bottom">
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+</div>
+
+<div class="container">
+
+    <form id="confirm-form" action="{{ url_for('genPenpot') }}" method="POST" enctype="multipart/form-data">
+
+        <!-- <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <label class="input-group-text" for="telaPrincipal">Tela Principal</label>
+            </div>
+            <select class="custom-select" name="telaPrincipal" id="telaPrincipal">
+                {% for i in range(sketchList|length) %}
+                <option value={{i}}>{{i}}</option>
+                {% endfor %}
+            </select>
+        </div> -->
+
+        <!-- <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <label class="input-group-text" for="tipoLista">Deseja usar EscolheLista ou ListaSuspensa?</label>
+            </div>
+            <select class="custom-select" name="tipoLista" id="tipoLista">
+                <option selected value="1">EscolheLista</option>
+                <option value="2">ListaSuspensa</option>
+            </select>
+        </div> -->
+    </form> 
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+         aria-labelledby="exampleModalCenterTitle" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Gerando Penpot...</h5>
+                </div>
+                <div class="modal-body">
+                    <img class="img-fluid" height="30" width="auto"
+                         src="{{url_for('static', filename='RobotLoadingIcon.gif')}}" alt="" loading="lazy">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Button trigger modal -->
+    <button type="button" id="confirmButton" class="btn btn-lg btn-block btn-primary" data-toggle="modal"
+            data-target="#exampleModalCenter" style="background-color: #7d0fbd;">
+        Finalizar
+    </button>
+
+    <a href="/upload/cancel" class="btn btn-lg btn-block btn-primary mb-3" role="button" style="background-color: #8B0000;">Cancelar</a>
+
+</div>
+
+<script>
+    document.getElementById("confirmButton").onclick = function() {
+        document.getElementById("confirm-form").submit();
+    };
+</script>
+
+{% endblock %}

@@ -1,0 +1,97 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="display:none" fill="none">
+    <defs>
+        <symbol id="f5975c67-17f1-8049-8003-889d38a46afd" viewBox="0 0 200 54" penpot:path="">
+            <title>Component 1</title>
+            <g id="shape-f5975c67-17f1-8049-8003-889d38a46afd" rx="0" ry="0">
+                <penpot:shape penpot:name="Component 1" penpot:type="group" penpot:center-x="100" penpot:center-y="27">
+                </penpot:shape>
+                <defs></defs>
+                <g id="shape-listpicker_component_rectangle_id">
+                    <penpot:shape penpot:name="listpicker_rectangle" penpot:type="rect"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="100"
+                        penpot:center-y="27">
+                        <penpot:strokes>
+                            <penpot:stroke penpot:stroke-alignment="center" penpot:stroke-color="#49454e"
+                                penpot:stroke-opacity="1" penpot:stroke-width="1" penpot:stroke-style="solid">
+                            </penpot:stroke>
+                        </penpot:strokes>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-listpicker_component_rectangle_id">
+                        <rect rx="4" ry="4" x="0" y="0"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="200"
+                            height="54"></rect>
+                    </g>
+                    <g id="strokes-listpicker_component_rectangle_id" class="strokes">
+                        <g class="stroke-shape">
+                            <defs></defs>
+                            <rect rx="4" ry="4"
+                                style="fill:none;fill-opacity:none;stroke-width:1;stroke:#49454e;stroke-opacity:1;stroke-dasharray:"
+                                x="0" y="0"
+                                transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                                width="200" height="54"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="shape-listpicker_component_arrow_id">
+                    <penpot:shape penpot:name="listpicker_arrow" penpot:type="path"
+                        penpot:transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(0.707107, 0.707107, -0.707107, 0.707107, 0.000000, 0.000000)"
+                        penpot:proportion="0.9997146584347991" penpot:proportion-lock="true" penpot:rotation="315"
+                        penpot:center-x="173.48649232150638" penpot:center-y="26.48649232150649">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#B1B2B5" penpot:fill-opacity="1"></penpot:fill>
+                        </penpot:fills>
+                        <penpot:strokes>
+                            <penpot:stroke penpot:stroke-alignment="center" penpot:stroke-color="#49454e"
+                                penpot:stroke-opacity="1" penpot:stroke-width="2" penpot:stroke-style="solid"
+                                penpot:stroke-color-ref-file="5d070910-9b94-11ec-ad6a-84d7741b7d65"
+                                penpot:stroke-color-ref-id="a6b9d4d0-9e0e-11ec-93d5-eb090abc8318"></penpot:stroke>
+                        </penpot:strokes>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-listpicker_component_arrow_id">
+                        <path rx="0" ry="0" style="fill:#B1B2B5;fill-opacity:1"
+                            d="M165.000,26.485L173.488,34.973L181.973,26.488L173.488,34.973L165.000,26.485Z"></path>
+                    </g>
+                    <g id="strokes-listpicker_component_arrow_id" class="strokes">
+                        <g class="stroke-shape">
+                            <defs></defs>
+                            <path rx="0" ry="0"
+                                style="fill:none;fill-opacity:none;stroke-width:2;stroke:#49454e;stroke-opacity:1;stroke-dasharray:"
+                                d="M165.000,26.485L173.488,34.973L181.973,26.488L173.488,34.973L165.000,26.485Z"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="shape-listpicker_component_label_id">
+                    <penpot:shape penpot:name="listpicker_label" penpot:type="text"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:rotation="0" penpot:center-x="74.5" penpot:center-y="29" penpot:grow-type="auto-width"
+                        penpot:content="{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;paragraph-set&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;typography-ref-id&quot;:null,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;sourcesanspro&quot;,&quot;font-size&quot;:&quot;18&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;typography-ref-file&quot;:null,&quot;font-variant-id&quot;:&quot;regular&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#49454e&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;sourcesanspro&quot;,&quot;text&quot;:&quot;ListPicker Text&quot;}],&quot;typography-ref-id&quot;:null,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;sourcesanspro&quot;,&quot;key&quot;:&quot;87bud&quot;,&quot;font-size&quot;:&quot;18&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;typography-ref-file&quot;:null,&quot;type&quot;:&quot;paragraph&quot;,&quot;font-variant-id&quot;:&quot;regular&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#49454e&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;sourcesanspro&quot;}]}]}"
+                        penpot:position-data="[{&quot;y&quot;:40.22222280502319,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;font-size&quot;:&quot;18px&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;width&quot;:108.4201431274414,&quot;text-decoration&quot;:&quot;none solid rgb(73, 69, 78)&quot;,&quot;letter-spacing&quot;:&quot;normal&quot;,&quot;x&quot;:20,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#49454e&quot;,&quot;fill-opacity&quot;:1}],&quot;direction&quot;:&quot;ltr&quot;,&quot;font-family&quot;:&quot;sourcesanspro&quot;,&quot;height&quot;:23.33333396911621,&quot;text&quot;:&quot;ListPicker Text&quot;}]">
+                    </penpot:shape>
+                    <defs>
+                        <pattern patternUnits="userSpaceOnUse" x="20" y="18" height="22" width="109"
+                            data-loading="false" id="fill-0-rumext-id-16">
+                            <g>
+                                <rect style="fill:#49454e;fill-opacity:1" width="109" height="22"></rect>
+                            </g>
+                        </pattern>
+                    </defs>
+                    <g transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        class="text-container" x="20" y="18" width="109" height="22" rx="0" ry="0">
+                        <g class="fills" id="fills-listpicker_component_label_id"><text x="20"
+                                y="40.22222280502319" dominant-baseline="ideographic" textLength="108.4201431274414"
+                                lengthAdjust="spacingAndGlyphs"
+                                style="text-transform:none;font-family:sourcesanspro;letter-spacing:normal;font-style:normal;font-weight:400;white-space:pre;font-size:18px;text-decoration:none solid rgb(73, 69, 78);direction:ltr;fill:#49454e;fill-opacity:1">ListPicker
+                                Text</text></g>
+                    </g>
+                </g>
+            </g>
+        </symbol>
+    </defs>
+</svg>

@@ -1,0 +1,63 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="display:none" fill="none">
+    <defs>
+        <symbol id="77fefd77-2f9c-8022-8003-7ff76674b2db" viewBox="0 0 320 20" penpot:path="">
+            <title>Component 1</title>
+            <g id="shape-77fefd77-2f9c-8022-8003-7ff76674b2db" rx="0" ry="0">
+                <penpot:shape penpot:name="Component 1" penpot:type="group" penpot:center-x="160" penpot:center-y="10">
+                </penpot:shape>
+                <defs></defs>
+                <g id="shape-slider_component_full_track_id">
+                    <penpot:shape penpot:name="Full Track" penpot:type="rect"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="160"
+                        penpot:center-y="10">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#e7e0ec" penpot:fill-opacity="1"></penpot:fill>
+                        </penpot:fills>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-slider_component_full_track_id">
+                        <rect rx="2" ry="2" style="fill:#e7e0ec;fill-opacity:1" x="0" y="8"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="320"
+                            height="4"></rect>
+                    </g>
+                </g>
+                <g id="shape-slider_component_track_id">
+                    <penpot:shape penpot:name="Track" penpot:type="rect"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="40"
+                        penpot:center-y="10">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#6750a4" penpot:fill-opacity="1"></penpot:fill>
+                        </penpot:fills>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-slider_component_track_id">
+                        <rect rx="2" ry="2" style="fill:#6750a4;fill-opacity:1" x="0" y="8"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="80"
+                            height="4"></rect>
+                    </g>
+                </g>
+                <g id="shape-slider_component_handle_id">
+                    <penpot:shape penpot:name="Handle" penpot:type="circle"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="80"
+                        penpot:center-y="10">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#6750a4" penpot:fill-opacity="1"></penpot:fill>
+                        </penpot:fills>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-slider_component_handle_id">
+                        <ellipse rx="10" ry="10" style="fill:#6750a4;fill-opacity:1" cx="80" cy="10"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </symbol>
+    </defs>
+</svg>

@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <div class="row mx-auto text-center">
+        <div class="col-md">
+        </div>
+        <div class="col-md-8">
+            <img class="img-fluid p-3" src="{{url_for('static', filename='Sketch2penpot_purple_logo.png')}}" alt="" loading="lazy">
+            <p class="lead">Já tem um código para seu Sketch? Digite abaixo:</p>
+
+            <form id="code-form" action="{{ url_for('findCode') }}" method="POST" enctype="multipart/form-data">
+                <div class="input-group mb-3">
+                  <input type="text" name="code" class="form-control" placeholder="Código do Sketch" aria-label="Código" aria-describedby="button-addon2">
+                  <div class="input-group-append">
+                    <button class="btn btn-primary" type="button" id="sendButton" style="background-color: #7d0fbd;">Enviar</button>
+                  </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-md">
+        </div>
+    </div>
+
+    {% if show_error %}<!-- Modal -->
+        <div class="modal fade" id="error_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle">
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalCenterTitle">Penpot não encontrado!</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                  </button>
+              </div>
+              <div class="modal-body">
+                  <div class="container">
+                      <img class="img mx-auto d-block mb-4" height="300" width="auto" src="{{url_for('static', filename='RobotError.png')}}" alt="" loading="lazy">
+                      <p class="text-center justify-content-center">Verifique o código digitado.</p>
+                  </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-primary" style="background-color: #7d0fbd;" data-dismiss="modal">Ok</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <script>
+            window.onload = function() {
+                $('#error_modal').modal('show')
+            }
+        </script>
+
+    {% endif %}
+</div>
+
+<script>
+
+    document.getElementById("sendButton").onclick = function() {
+        document.getElementById("code-form").submit();
+    };
+</script>
+
+{% endblock %}

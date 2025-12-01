@@ -1,0 +1,62 @@
+<svg viewBox="-0.5 -0.5 201 57" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:penpot="https://penpot.app/xmlns"
+  style="width:100%;height:100%;background:#ffffff" fill="none">
+  <penpot:page id="54bc2d4c-edbd-8093-8003-7ffb8a0b946d"></penpot:page>
+  <g id="shape-TextBox_group_id" rx="0" ry="0">
+    <penpot:shape penpot:name="textbox_component" penpot:type="group" penpot:center-x="100" penpot:center-y="28"
+      penpot:component-file="54bc2d4c-edbd-8093-8003-7ffb8a0b946c"
+      penpot:component-id="2f2c111d-008b-8098-8003-89e4532074b7" penpot:component-root="true"
+      penpot:shape-ref="2f2c111d-008b-8098-8003-89e4532074b7"></penpot:shape>
+    <defs></defs>
+    <g id="shape-textbox_rectangle_id">
+      <penpot:shape penpot:name="textbox_rectangle" penpot:type="rect"
+        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="100"
+        penpot:center-y="28" penpot:shape-ref="textbox_rectangle_component_id">
+        <penpot:strokes>
+          <penpot:stroke penpot:stroke-alignment="center" penpot:stroke-color="#49454e" penpot:stroke-opacity="1"
+            penpot:stroke-width="1" penpot:stroke-style="solid"></penpot:stroke>
+        </penpot:strokes>
+      </penpot:shape>
+      <defs></defs>
+      <g class="fills" id="fills-textbox_rectangle_id">
+        <rect rx="4" ry="4" x="rectangle_position_x" y="rectangle_position_y" transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+          width="rectangle_width" height="rectangle_height"></rect>
+      </g>
+      <g id="strokes-textbox_rectangle_id" class="strokes">
+        <g class="stroke-shape">
+          <defs></defs>
+          <rect rx="4" ry="4"
+            style="fill:none;fill-opacity:none;stroke-width:1;stroke:#49454e;stroke-opacity:1;stroke-dasharray:" x="rectangle_position_x"
+            y="rectangle_position_y" transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="rectangle_width"
+            height="rectangle_height"></rect>
+        </g>
+      </g>
+    </g>
+    <g id="shape-textbox_label_id">
+      <penpot:shape penpot:name="textbox_label" penpot:type="text"
+        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+        penpot:rotation="0" penpot:center-x="50" penpot:center-y="29" penpot:grow-type="auto-width"
+        penpot:content="{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;paragraph-set&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;typography-ref-id&quot;:null,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;gfont-roboto&quot;,&quot;font-size&quot;:&quot;18&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;typography-ref-file&quot;:null,&quot;font-variant-id&quot;:&quot;regular&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#49454e&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;Roboto&quot;,&quot;text&quot;:&quot;TextBox&quot;}],&quot;typography-ref-id&quot;:null,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;gfont-roboto&quot;,&quot;key&quot;:&quot;87bud&quot;,&quot;font-size&quot;:&quot;18&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;typography-ref-file&quot;:null,&quot;type&quot;:&quot;paragraph&quot;,&quot;font-variant-id&quot;:&quot;regular&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#49454e&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;Roboto&quot;}]}]}"
+        penpot:position-data="[{&quot;y&quot;:text_position_y,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;font-size&quot;:&quot;18px&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;width&quot;:59.37500762939453,&quot;text-decoration&quot;:&quot;none solid rgb(73, 69, 78)&quot;,&quot;letter-spacing&quot;:&quot;normal&quot;,&quot;x&quot;:text_position_x,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#49454e&quot;,&quot;fill-opacity&quot;:1}],&quot;direction&quot;:&quot;ltr&quot;,&quot;font-family&quot;:&quot;Roboto&quot;,&quot;height&quot;:23.33333396911621,&quot;text&quot;:&quot;TextBox&quot;}]"
+        penpot:shape-ref="textbox_label_component_id"></penpot:shape>
+      <defs>
+        <pattern patternUnits="userSpaceOnUse" x="label_position_x" y="label_position_y" height="22" width="60" data-loading="false"
+          id="fill-0-rumext-id-6">
+          <g>
+            <rect style="fill:#49454e;fill-opacity:1" width="60" height="22"></rect>
+          </g>
+        </pattern>
+      </defs>
+      <g transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" class="text-container" x="label_position_x"
+        y="label_position_y" width="60" height="22" rx="0" ry="0">
+        <g class="fills" id="fills-textbox_label_id"><text x="text_position_x" y="text_position_y"
+            dominant-baseline="ideographic" textLength="59.37500762939453" lengthAdjust="spacingAndGlyphs"
+            style="text-transform:none;font-family:Roboto;letter-spacing:normal;font-style:normal;font-weight:400;white-space:pre;font-size:18px;text-decoration:none solid rgb(73, 69, 78);direction:ltr;fill:#49454e;fill-opacity:1">TextBox</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

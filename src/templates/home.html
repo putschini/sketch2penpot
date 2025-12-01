@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <div class="container-fluid text-center mt-3 mb-3">
+        <!-- <img class="img-fluid p-4" src="{{url_for('static', filename='Sketch2penpot_purple_logo.png')}}" alt="" loading="lazy">
+        -->
+        <p class="lead">Agora você pode automaticamente gerar projetos Penpot rapidinho a partir dos seus sketches desenhados à mão.</p>
+    </div>
+
+    <div class="row mx-auto text-center mt-3 mb-3">
+        <div class="col-md">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col-8">
+                    <div class="container">
+                        <img class="img-fluid" src="{{url_for('static', filename='SketchExample.png')}}" alt="" loading="lazy">
+                    </div>
+                </div>
+                <div class="col"></div>
+            </div>
+            <div class="row">
+                <div class="container-fluid">
+                    <h1 class="text-center" style="color: #7d0fbd;">1</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="container-fluid">
+                    <p class="text-center justify-content-center">Fotografe seus sketchs dos interfaces do seu app e faça o upload.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col-8">
+                    <div class="container">
+                    <img class="img-fluid" src="{{url_for('static', filename='PenpotExample.png')}}" alt="" loading="lazy">
+                    </div>
+                </div>
+                <div class="col"></div>
+            </div>
+            <div class="row">
+                <div class="container-fluid">
+                    <h1 style="color: #7d0fbd;">2</h1>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="container-fluid">
+                    <p class="text-center">Faça o download do projeto para o seu computador e depois importe no Penpot para continuar o desenvolvimento de sua interface de usuário.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid text-center mt-3 mb-3">
+        <a href="/newsketch" class="btn btn-lg btn-block btn-primary" role="button" style="background-color: #7d0fbd;">Vamos lá?</a>
+    </div>
+</div>
+{% endblock %}

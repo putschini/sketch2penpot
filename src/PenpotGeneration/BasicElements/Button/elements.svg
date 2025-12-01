@@ -1,0 +1,56 @@
+<svg viewBox="0 0 128 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="width:100%;height:100%;background:#E8E9EA" fill="none">
+    <penpot:page id="button_page_id"></penpot:page>
+    <style data-loading="true"></style>
+    <g id="shape-Button_group_id" rx="0" ry="0">
+        <penpot:shape penpot:name="button_component" penpot:type="group" penpot:center-x="64" penpot:center-y="20"
+            penpot:component-file="c29b5282-da70-8012-8003-70a99a4124a2"
+            penpot:component-id="e5695384-3158-8064-8003-68b98cc259f0" penpot:component-root="true"
+            penpot:shape-ref="e5695384-3158-8064-8003-68b98cc259f0"></penpot:shape>
+        <defs></defs>
+        <g id="shape-button_background_id">
+            <penpot:shape penpot:name="button_background" penpot:blocked="false" penpot:hidden="false"
+                penpot:type="rect" penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="64"
+                penpot:center-y="20" penpot:shape-ref="button_background_component_id">
+                <penpot:fills>
+                    <penpot:fill penpot:fill-color="#e8def8"
+                        penpot:fill-color-ref-file="d14220e8-6daf-8066-8003-1ddb2e8f0f80"
+                        penpot:fill-color-ref-id="136eece0-40ab-8002-8002-29626955efcb" penpot:fill-opacity="1">
+                    </penpot:fill>
+                </penpot:fills>
+            </penpot:shape>
+            <defs></defs>
+            <g class="fills" id="fills-button_background_id">
+                <rect rx="20" ry="20" style="opacity:1;fill:#e8def8;fill-opacity:1" x="background_position_x" y="background_position_y"
+                    transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="background_width"
+                    height="background_height"></rect>
+            </g>
+        </g>
+        <g id="shape-button_label_id">
+            <penpot:shape penpot:name="button_label" penpot:blocked="false" penpot:hidden="false" penpot:type="text"
+                penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                penpot:rotation="0" penpot:center-x="64" penpot:center-y="20" penpot:grow-type="auto-width"
+                penpot:content="{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;paragraph-set&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;path&quot;:&quot;Label&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;path&quot;:&quot;Label&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;gfont-roboto&quot;,&quot;font-size&quot;:&quot;14&quot;,&quot;font-weight&quot;:&quot;500&quot;,&quot;font-variant-id&quot;:&quot;500&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0.01&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#1e192b&quot;,&quot;fill-color-ref-id&quot;:&quot;136eece0-40ab-8002-8002-2962abbdbd62&quot;,&quot;fill-color-ref-file&quot;:&quot;d14220e8-6daf-8066-8003-1ddb2e8f0f80&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;Roboto&quot;,&quot;text&quot;:&quot;Button&quot;}],&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;center&quot;,&quot;font-id&quot;:&quot;gfont-roboto&quot;,&quot;key&quot;:&quot;v32e&quot;,&quot;font-size&quot;:&quot;14&quot;,&quot;font-weight&quot;:&quot;500&quot;,&quot;type&quot;:&quot;paragraph&quot;,&quot;font-variant-id&quot;:&quot;500&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0.01&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#1e192b&quot;,&quot;fill-color-ref-id&quot;:&quot;136eece0-40ab-8002-8002-2962abbdbd62&quot;,&quot;fill-color-ref-file&quot;:&quot;d14220e8-6daf-8066-8003-1ddb2e8f0f80&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;Roboto&quot;}]}],&quot;vertical-align&quot;:&quot;center&quot;}"
+                penpot:position-data="[{&quot;y&quot;:text_position_y,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;font-size&quot;:&quot;14px&quot;,&quot;font-weight&quot;:&quot;500&quot;,&quot;width&quot;:41.52777862548828,&quot;text-decoration&quot;:&quot;none solid rgb(30, 25, 43)&quot;,&quot;letter-spacing&quot;:&quot;0.01px&quot;,&quot;x&quot;:text_position_x,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#1e192b&quot;,&quot;fill-color-ref-id&quot;:&quot;136eece0-40ab-8002-8002-2962abbdbd62&quot;,&quot;fill-color-ref-file&quot;:&quot;d14220e8-6daf-8066-8003-1ddb2e8f0f80&quot;,&quot;fill-opacity&quot;:1}],&quot;direction&quot;:&quot;ltr&quot;,&quot;font-family&quot;:&quot;Roboto&quot;,&quot;height&quot;:16.666667938232422,&quot;text&quot;:&quot;Button&quot;}]"
+                penpot:shape-ref="button_label_component_id"></penpot:shape>
+            <defs>
+                <pattern patternUnits="userSpaceOnUse" x="label_position_x" y="label_position_y" height="17" width="42" data-loading="false"
+                    id="fill-0-rumext-id-9">
+                    <g>
+                        <rect style="fill:#1e192b;fill-opacity:1" width="42" height="17"></rect>
+                    </g>
+                </pattern>
+            </defs>
+            <g transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" class="text-container"
+                x="label_position_x" y="label_position_y" width="42" height="17" rx="0" ry="0">
+                <g class="fills" id="fills-button_label_id"><text x="text_position_x" y="text_position_y"
+                        dominant-baseline="ideographic" textLength="41.52777862548828" lengthAdjust="spacingAndGlyphs"
+                        style="text-transform:none;font-family:Roboto;letter-spacing:0.01px;font-style:normal;font-weight:500;white-space:pre;font-size:14px;text-decoration:none solid rgb(30, 25, 43);direction:ltr;fill:#1e192b;fill-opacity:1">Button</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

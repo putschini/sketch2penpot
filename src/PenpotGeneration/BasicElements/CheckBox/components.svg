@@ -1,0 +1,69 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="display:none" fill="none">
+    <defs>
+        <symbol id="be12d3ff-b239-8013-8003-69ec7579da04" viewBox="0 0 91 20" penpot:path="">
+            <title>Component 1</title>
+            <g id="shape-be12d3ff-b239-8013-8003-69ec7579da04" rx="0" ry="0">
+                <penpot:shape penpot:name="Component 1" penpot:type="group" penpot:center-x="45.5" penpot:center-y="10">
+                </penpot:shape>
+                <defs></defs>
+                <g id="shape-checkbox_rectangle_component_id">
+                    <penpot:shape penpot:name="Rectangle" penpot:type="rect"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="10"
+                        penpot:center-y="10">
+                        <penpot:strokes>
+                            <penpot:stroke penpot:stroke-alignment="center" penpot:stroke-color="#000000"
+                                penpot:stroke-opacity="1" penpot:stroke-width="2" penpot:stroke-style="solid">
+                            </penpot:stroke>
+                        </penpot:strokes>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-checkbox_rectangle_component_id">
+                        <rect rx="0" ry="0" x="0" y="0"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="20"
+                            height="20"></rect>
+                    </g>
+                    <g id="strokes-checkbox_rectangle_component_id" class="strokes">
+                        <g class="stroke-shape">
+                            <defs></defs>
+                            <rect rx="0" ry="0"
+                                style="fill:none;fill-opacity:none;stroke-width:2;stroke:#000000;stroke-opacity:1;stroke-dasharray:"
+                                x="0" y="0"
+                                transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                                width="20" height="20"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="shape-checkbox_label_component_id">
+                    <penpot:shape penpot:name="CheckBox" penpot:type="text"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:rotation="0" penpot:center-x="60" penpot:center-y="10" penpot:grow-type="fixed"
+                        penpot:content="{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;paragraph-set&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;typography-ref-id&quot;:null,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;sourcesanspro&quot;,&quot;font-size&quot;:&quot;14&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;typography-ref-file&quot;:null,&quot;font-variant-id&quot;:&quot;regular&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#000000&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;sourcesanspro&quot;,&quot;text&quot;:&quot;CheckBox&quot;}],&quot;typography-ref-id&quot;:null,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;left&quot;,&quot;font-id&quot;:&quot;sourcesanspro&quot;,&quot;key&quot;:&quot;5v010&quot;,&quot;font-size&quot;:&quot;14&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;typography-ref-file&quot;:null,&quot;type&quot;:&quot;paragraph&quot;,&quot;font-variant-id&quot;:&quot;regular&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#000000&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;sourcesanspro&quot;}]}]}"
+                        penpot:position-data="[{&quot;y&quot;:17.77777862548828,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;font-size&quot;:&quot;14px&quot;,&quot;font-weight&quot;:&quot;400&quot;,&quot;width&quot;:57.65625762939453,&quot;text-decoration&quot;:&quot;none solid rgb(0, 0, 0)&quot;,&quot;letter-spacing&quot;:&quot;normal&quot;,&quot;x&quot;:29,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#000000&quot;,&quot;fill-opacity&quot;:1}],&quot;direction&quot;:&quot;ltr&quot;,&quot;font-family&quot;:&quot;sourcesanspro&quot;,&quot;height&quot;:17.77777862548828,&quot;text&quot;:&quot;CheckBox&quot;}]">
+                        <penpot:layout-item penpot:layout-item-h-sizing="fix" penpot:layout-item-v-sizing="fix">
+                        </penpot:layout-item>
+                    </penpot:shape>
+                    <defs>
+                        <pattern patternUnits="userSpaceOnUse" x="29" y="0" height="20" width="62" data-loading="false"
+                            id="fill-0-rumext-id-12">
+                            <g>
+                                <rect style="fill:#000000;fill-opacity:1" width="62" height="20"></rect>
+                            </g>
+                        </pattern>
+                    </defs>
+                    <g transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        class="text-container" x="29" y="0" width="62" height="20" rx="0" ry="0">
+                        <g class="fills" id="fills-checkbox_label_component_id"><text x="29"
+                                y="17.77777862548828" dominant-baseline="ideographic" textLength="57.65625762939453"
+                                lengthAdjust="spacingAndGlyphs"
+                                style="text-transform:none;font-family:sourcesanspro;letter-spacing:normal;font-style:normal;font-weight:400;white-space:pre;font-size:14px;text-decoration:none solid rgb(0, 0, 0);direction:ltr;fill:#000000;fill-opacity:1">CheckBox</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </symbol>
+    </defs>
+</svg>

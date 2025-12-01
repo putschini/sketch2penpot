@@ -1,0 +1,59 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="display:none" fill="none">
+    <defs>
+        <symbol id="e5695384-3158-8064-8003-68b98cc259f0" viewBox="0 0 128 40" penpot:path="">
+            <title>Component 1</title>
+            <g id="shape-e5695384-3158-8064-8003-68b98cc259f0" rx="0" ry="0">
+                <penpot:shape penpot:name="Component 1" penpot:type="group" penpot:center-x="64" penpot:center-y="20">
+                </penpot:shape>
+                <defs></defs>
+                <g id="shape-button_background_component_id">
+                    <penpot:shape penpot:name="Background" penpot:blocked="false" penpot:hidden="false"
+                        penpot:type="rect"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="64"
+                        penpot:center-y="20">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#e8def8"
+                                penpot:fill-color-ref-file="d14220e8-6daf-8066-8003-1ddb2e8f0f80"
+                                penpot:fill-color-ref-id="136eece0-40ab-8002-8002-29626955efcb" penpot:fill-opacity="1">
+                            </penpot:fill>
+                        </penpot:fills>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-button_background_component_id">
+                        <rect rx="20" ry="20" style="opacity:1;fill:#e8def8;fill-opacity:1" x="0" y="0"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="128"
+                            height="40"></rect>
+                    </g>
+                </g>
+                <g id="shape-button_label_component_id">
+                    <penpot:shape penpot:name="Label" penpot:blocked="false" penpot:hidden="false" penpot:type="text"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:rotation="0" penpot:center-x="62" penpot:center-y="20.5" penpot:grow-type="auto-width"
+                        penpot:content="{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;paragraph-set&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;path&quot;:&quot;Label&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;children&quot;:[{&quot;line-height&quot;:&quot;1.2&quot;,&quot;path&quot;:&quot;Label&quot;,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;center&quot;,&quot;font-id&quot;:&quot;gfont-roboto&quot;,&quot;font-size&quot;:&quot;14&quot;,&quot;font-weight&quot;:&quot;500&quot;,&quot;font-variant-id&quot;:&quot;500&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0.01&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#1e192b&quot;,&quot;fill-color-ref-id&quot;:&quot;136eece0-40ab-8002-8002-2962abbdbd62&quot;,&quot;fill-color-ref-file&quot;:&quot;d14220e8-6daf-8066-8003-1ddb2e8f0f80&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;Roboto&quot;,&quot;text&quot;:&quot;Button&quot;}],&quot;text-transform&quot;:&quot;none&quot;,&quot;text-align&quot;:&quot;center&quot;,&quot;font-id&quot;:&quot;gfont-roboto&quot;,&quot;key&quot;:&quot;v32e&quot;,&quot;font-size&quot;:&quot;14&quot;,&quot;font-weight&quot;:&quot;500&quot;,&quot;type&quot;:&quot;paragraph&quot;,&quot;font-variant-id&quot;:&quot;500&quot;,&quot;text-decoration&quot;:&quot;none&quot;,&quot;letter-spacing&quot;:&quot;0.01&quot;,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#1e192b&quot;,&quot;fill-color-ref-id&quot;:&quot;136eece0-40ab-8002-8002-2962abbdbd62&quot;,&quot;fill-color-ref-file&quot;:&quot;d14220e8-6daf-8066-8003-1ddb2e8f0f80&quot;,&quot;fill-opacity&quot;:1}],&quot;font-family&quot;:&quot;Roboto&quot;}]}],&quot;vertical-align&quot;:&quot;center&quot;}"
+                        penpot:position-data="[{&quot;y&quot;:28.770834609866142,&quot;font-style&quot;:&quot;normal&quot;,&quot;text-transform&quot;:&quot;none&quot;,&quot;font-size&quot;:&quot;14px&quot;,&quot;font-weight&quot;:&quot;500&quot;,&quot;width&quot;:41.52777862548828,&quot;text-decoration&quot;:&quot;none solid rgb(30, 25, 43)&quot;,&quot;letter-spacing&quot;:&quot;0.01px&quot;,&quot;x&quot;:41,&quot;fills&quot;:[{&quot;fill-color&quot;:&quot;#1e192b&quot;,&quot;fill-color-ref-id&quot;:&quot;136eece0-40ab-8002-8002-2962abbdbd62&quot;,&quot;fill-color-ref-file&quot;:&quot;d14220e8-6daf-8066-8003-1ddb2e8f0f80&quot;,&quot;fill-opacity&quot;:1}],&quot;direction&quot;:&quot;ltr&quot;,&quot;font-family&quot;:&quot;Roboto&quot;,&quot;height&quot;:16.666667938232422,&quot;text&quot;:&quot;Button&quot;}]">
+                    </penpot:shape>
+                    <defs>
+                        <pattern patternUnits="userSpaceOnUse" x="41" y="12" height="17" width="42" data-loading="false"
+                            id="fill-0-rumext-id-6">
+                            <g>
+                                <rect style="fill:#1e192b;fill-opacity:1" width="42" height="17"></rect>
+                            </g>
+                        </pattern>
+                    </defs>
+                    <g transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        class="text-container" x="41" y="12" width="42" height="17" rx="0" ry="0">
+                        <g class="fills" id="fills-button_label_component_id"><text x="41" y="28.770834609866142"
+                                dominant-baseline="ideographic" textLength="41.52777862548828"
+                                lengthAdjust="spacingAndGlyphs"
+                                style="text-transform:none;font-family:Roboto;letter-spacing:0.01px;font-style:normal;font-weight:500;white-space:pre;font-size:14px;text-decoration:none solid rgb(30, 25, 43);direction:ltr;fill:#1e192b;fill-opacity:1">Button</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </symbol>
+    </defs>
+</svg>

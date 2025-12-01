@@ -1,0 +1,61 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:penpot="https://penpot.app/xmlns" style="display:none" fill="none">
+    <defs>
+        <symbol id="37dfc3e7-db94-8037-8003-86a0c77d67a4" viewBox="0 0 52 32" penpot:path="">
+            <title>Component 1</title>
+            <g id="shape-37dfc3e7-db94-8037-8003-86a0c77d67a4" rx="0" ry="0">
+                <penpot:shape penpot:name="Component 1" penpot:type="group" penpot:center-x="26" penpot:center-y="16">
+                </penpot:shape>
+                <defs></defs>
+                <g id="shape-switch_component_rectangle_id">
+                    <penpot:shape penpot:name="switch_rectangle" penpot:type="rect"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="26"
+                        penpot:center-y="16">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#e7e0ec" penpot:fill-opacity="1"></penpot:fill>
+                        </penpot:fills>
+                        <penpot:strokes>
+                            <penpot:stroke penpot:stroke-alignment="center" penpot:stroke-color="#79747e"
+                                penpot:stroke-opacity="1" penpot:stroke-width="2" penpot:stroke-style="solid">
+                            </penpot:stroke>
+                        </penpot:strokes>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-switch_component_rectangle_id">
+                        <rect rx="16" ry="16" style="fill:#e7e0ec;fill-opacity:1" x="0" y="0"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)" width="52"
+                            height="32"></rect>
+                    </g>
+                    <g id="strokes-switch_component_rectangle_id" class="strokes">
+                        <g class="stroke-shape">
+                            <defs></defs>
+                            <rect rx="16" ry="16"
+                                style="fill:none;fill-opacity:none;stroke-width:2;stroke:#79747e;stroke-opacity:1;stroke-dasharray:"
+                                x="0" y="0"
+                                transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                                width="52" height="32"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="shape-switch_component_ellipse_id">
+                    <penpot:shape penpot:name="switch_ellipse" penpot:type="circle"
+                        penpot:transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:transform-inverse="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"
+                        penpot:proportion="1" penpot:proportion-lock="false" penpot:rotation="0" penpot:center-x="16"
+                        penpot:center-y="17">
+                        <penpot:fills>
+                            <penpot:fill penpot:fill-color="#79747e" penpot:fill-opacity="1"></penpot:fill>
+                        </penpot:fills>
+                    </penpot:shape>
+                    <defs></defs>
+                    <g class="fills" id="fills-switch_component_ellipse_id">
+                        <ellipse rx="8" ry="8" style="fill:#79747e;fill-opacity:1" cx="16" cy="17"
+                            transform="matrix(1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000)"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </symbol>
+    </defs>
+</svg>
